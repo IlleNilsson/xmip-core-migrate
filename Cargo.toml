@@ -7,7 +7,7 @@ version = "0.1.0"
 edition = "2024"
 license = "AGPL-3.0-or-later"
 repository = "https://github.com/IlleNilsson/xmip-core-migrate"
-description = "Starter template for a Rust-based Xmip component repository."
+description = "Translate source-platform configuration into Xmip artifacts and report unsupported concepts."
 
 [lib]
 path = "src/lib.rs"
