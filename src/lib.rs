@@ -1,5 +1,6 @@
 #![forbid(unsafe_code)]
-//! Library entry point for an Xmip component.
+//! Migration into Xmip from other integration platforms.
 //!
-//! Replace this template documentation only after the repository responsibility,
-//! public contracts and dependency direction are accepted in the Xmip architecture.
+//! This planned capability will translate source configuration into Xmip
+//! artifacts and report concepts that have no equivalent. No public migration
+//! API is implemented yet.
